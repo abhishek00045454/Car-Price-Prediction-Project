@@ -47,3 +47,7 @@ Link for notebook:https://github.com/abhishek00045454/Car-Price-Prediction-Proje
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
+5. deployment link:-https://car-price-predictor-app.onrender.com/
+
+   
+
